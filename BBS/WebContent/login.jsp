@@ -23,7 +23,7 @@
 				<span class="icon-bar"></span>
 				</button>
 				<a class="navar-brand" href="main.jsp">JSP 게시판 웹 사이트</a>
-<!-- 		</div>
+		</div>
 	<div class="collaspse navbar-collapse" id="bs-example-navbar-collapse-1">
 		<ul class="nav navbar-nav">
 			<li><a href="main.jsp">메인</a></li>
@@ -46,7 +46,7 @@
 	<div class="contanier">
 		<div class="col=lg=4"></div></div>
 	 <script src="https://code.jquery.com/jquery=3.1.1min.js"></script>
-	 <script src="js/bootstrap.js"></script> -->
+	 <script src="js/bootstrap.js"></script>
 </body>
 </html>
 
